@@ -32,4 +32,4 @@ do
      f2=$fn
 done
 
-echo "end of fib"
+echo 
